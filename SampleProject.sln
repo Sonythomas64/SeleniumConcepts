@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleProject", "SampleProject\SampleProject.csproj", "{CD27474D-352A-49EA-ACCD-26FE15E7CC01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConcepts", "SeleniumConcepts\SeleniumConcepts.csproj", "{45D138B3-89EF-4C0B-BB47-F82F5B18535B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A967E6D5-287B-4AE8-95FA-7DBEF460ED1A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD27474D-352A-49EA-ACCD-26FE15E7CC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD27474D-352A-49EA-ACCD-26FE15E7CC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD27474D-352A-49EA-ACCD-26FE15E7CC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD27474D-352A-49EA-ACCD-26FE15E7CC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D138B3-89EF-4C0B-BB47-F82F5B18535B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D138B3-89EF-4C0B-BB47-F82F5B18535B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D138B3-89EF-4C0B-BB47-F82F5B18535B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D138B3-89EF-4C0B-BB47-F82F5B18535B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05DEE69E-05A8-4062-B9C9-301E1D8BEA1C}
+	EndGlobalSection
+EndGlobal
