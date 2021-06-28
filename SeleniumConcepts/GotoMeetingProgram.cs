@@ -36,21 +36,7 @@ namespace SeleniumConcepts
 
             driver.FindElement(By.XPath("//button[text()='Sign Up']")).Click();
 
-
-
-
-
-
-
-
-
             Thread.Sleep(5000);
-
-
-
-
-
-
 
             driver.Quit();
 

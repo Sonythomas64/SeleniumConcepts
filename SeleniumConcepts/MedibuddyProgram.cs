@@ -15,7 +15,7 @@ namespace SeleniumConcepts
     {
         static void Main2(string[] args)
         {
-            ChromeDriver driver = new ChromeDriver();
+            IWebDriver driver = new ChromeDriver();
             //InternetExplorerDriver driver = new InternetExplorerDriver();
             //FirefoxDriver driver = new FirefoxDriver();
 

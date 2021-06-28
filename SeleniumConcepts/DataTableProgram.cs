@@ -14,7 +14,7 @@ namespace SeleniumConcepts
             //IWebDriver driver = new ChromeDriver();
             //InternetExplorerDriver driver = new InternetExplorerDriver();
             IWebDriver driver = new FirefoxDriver();
-            int totalsalary = 0;
+            //int totalsalary = 0;
             driver.Url = "https://datatables.net/extensions/select/examples/initialisation/checkbox.html";
             driver.Manage().Window.Maximize();
             driver.Manage().Timeouts().ImplicitWait = System.TimeSpan.FromSeconds(30);

@@ -9,9 +9,9 @@ namespace SeleniumConcepts
     {
         static void Main9(string[] args)
         {
-            //ChromeDriver driver = new ChromeDriver();
-            InternetExplorerDriver driver = new InternetExplorerDriver();
-            //FirefoxDriver driver = new FirefoxDriver();
+           // IWebDriver driver = new ChromeDriver();
+            //InternetExplorerDriver driver = new InternetExplorerDriver();
+            FirefoxDriver driver = new FirefoxDriver();
 
             driver.Url = "https://google.com";
 
